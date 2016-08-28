@@ -1,6 +1,6 @@
 ---
 title: A code tour configuration file
-code: https://github.com/dschep/ntfy/blob/509200ad6af162152eb240f53a3a91f9023e76e3/ntfy/config.py#L22-L28
+code: https://github.com/dschep/ntfy/blob/master/ntfy/config.py
 ---
 
 You might have read some code tours already, but this one is special - it's designed to teach you how to make a tour yourself. You can make a code tour of any open source project, even one you don't have commit access to.
